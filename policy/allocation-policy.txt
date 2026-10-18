@@ -1,0 +1,4 @@
+Aurora dispatch exercise
+Cutoff: 2156-04-03T18:00:00Z inclusive
+Allocation is all-or-nothing in priority and request-time order.
+Sealed source records must not be edited.
