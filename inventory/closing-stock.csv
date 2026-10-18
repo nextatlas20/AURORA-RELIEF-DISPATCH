@@ -1,0 +1,4 @@
+item_id,item_name,opening_units,allocated_units,closing_units
+IT-101,Thermal Blanket,12,9,3
+IT-205,Water Case,10,6,4
+IT-330,Hygiene Kit,7,4,3
